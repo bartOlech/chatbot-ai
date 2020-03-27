@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@google-cloud/storage": "^4.6.0",
+    "dialogflow": "^0.12.1",
+    "express": "^4.17.1",
     "react": "^16.10.2",
+    "react-bell-chat": "^1.0.23",
+    "react-chat-widget": "^2.1.5",
+    "react-chat-window": "^1.2.1",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "styled-components": "^4.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
